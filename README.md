@@ -1,2 +1,2 @@
-# acehourstask
-I am not able to implement the top scorer thing please help me with it after all submissions
+# Kaggle Repository
+This notebook contains my notebook submission to Spaceship Titanic Kaggle competition!
