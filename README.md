@@ -1,2 +1,2 @@
 # Kaggle Repository
-This notebook contains my notebook submission to Spaceship Titanic Kaggle competition!
+This repository will contain all kaggle notebooks while learning and upskilling in AI/ML.
